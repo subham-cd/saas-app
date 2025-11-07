@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "Sentry": {
+      "url": "https://mcp.sentry.dev/mcp/subham-uf/javascript-nextjs",
+      "type": "http"
+    }
+  }
+}
